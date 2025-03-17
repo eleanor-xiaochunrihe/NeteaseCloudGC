@@ -4,6 +4,18 @@
     <view class="text-area">
       <text class="title">{{ title }}</text>
     </view>
+    <image class="logo" src="/static/logo.png" />
+    <view class="text-area">
+      <text class="title">{{ title }}</text>
+    </view>
+    <image class="logo" src="/static/logo.png" />
+    <view class="text-area">
+      <text class="title">{{ title }}</text>
+    </view>
+    <image class="logo" src="/static/logo.png" />
+    <view class="text-area">
+      <text class="title">{{ title }}</text>
+    </view>
   </view>
 </template>
 
