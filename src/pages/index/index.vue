@@ -5,7 +5,7 @@
       <text class="title">{{ title }}</text>
     </view>
     <view>
-      我是master
+      <img src="" alt="">
     </view>
     <image class="logo" src="/static/logo.png" />
     <view class="text-area">
