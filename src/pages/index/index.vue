@@ -42,6 +42,7 @@
     <image class="logo" src="/static/logo.png" />
     <view class="text-area">
       <text class="title">{{ title }}</text>
+      <img src="" alt="">
     </view>
     <image class="logo" src="/static/logo.png" />
     <view class="text-area">
