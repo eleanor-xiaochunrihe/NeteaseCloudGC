@@ -22,6 +22,12 @@
 <script setup lang="ts">
 import { ref } from 'vue'
 const title = ref('Hello')
+  console.log(title.value)
+  console.log(title.value)
+  console.log(title.value)
+  console.log(title.value)
+  console.log(title.value)
+  
 </script>
 
 <style>
